@@ -12,9 +12,8 @@
     },
     "keywords": [],
     "author": "Jeanne Allen",
-    "license": "CodeWorks",
     "homepage": "",
     "devDependencies": {
-        "serve": "^11.2.0"
+        "serve": "^14.2.0"
     }
 }
