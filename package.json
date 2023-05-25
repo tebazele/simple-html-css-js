@@ -1,20 +1,19 @@
 {
-    "name": "simple-html-css-js",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.html",
-    "scripts": {
-        "start": "serve"
-    },
-    "repository": {
-        "type": "git",
-        "url": ""
-    },
-    "keywords": [],
-    "author": "Jeanne Allen",
-    "license": "CodeWorks",
-    "homepage": "",
-    "devDependencies": {
-        "serve": "^11.2.0"
-    }
+  "name": "simple-html-css-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "Jeanne Allen",
+  "homepage": "",
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
 }
